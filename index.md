@@ -1,6 +1,6 @@
 # **Jongwon's Profile**
 
-![Elcectrocat](/Review/electrocat.png)
+![Elcectrocat](/Review/cse110commandline.png)
 
 ## **How to push**
 One example quote is: 
